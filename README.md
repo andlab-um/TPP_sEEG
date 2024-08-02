@@ -1,5 +1,6 @@
 # TPP_sEEG
-TPP_sEEG
+
+> From [Affective, Neuroscience, and Decision-making Lab](https://andlab-um.com)
 
 ## Highlights
 
@@ -18,3 +19,14 @@ TPP_sEEG
 * Data modality: SEEG 
 * Paradigm: computer-based TPP behavioral task
 
+##  package required:
+> Python
+
+```bash
+mne
+numpy
+scipy
+pandas
+nibabel
+matplotlib  
+```
