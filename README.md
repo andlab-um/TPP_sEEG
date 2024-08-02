@@ -13,6 +13,8 @@
 * Adults rely more on subcortical-cortical (amygdala to vmPFC) and cortico-cortical (IPL to vmPFC) connectivity in the TPP decision, while children showes more subcortical-subcortical (insula to amygdala) connectivity duing the intuitive TPP decision.
   
 * Findings support the hierarchical development model of neural circuitry, where subcortical regions maturing earlier than cortical regions. Higher levels of moral reasoning that consider more factors will be acquired through the neural refinement.
+* 
+<img src="./6.3_model.jpg">
 
 ## Description
 * This repo mainly contains scripts for processing multimodal neurophysiological data from this project. 
