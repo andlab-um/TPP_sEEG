@@ -22,7 +22,7 @@
 * Paradigm: computer-based TPP behavioral task
 
 ##  package required:
-> Python
+> Python 3.9
 
 ```bash
 mne
@@ -30,5 +30,6 @@ numpy
 scipy
 pandas
 nibabel
-matplotlib  
+matplotlib
+pickle
 ```
